@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+    android:drawable="@drawable/meo1"
+    android:duration="60"></item>
+    <item
+        android:drawable="@drawable/meo2"
+        android:duration="60"></item>
+    <item
+        android:drawable="@drawable/meo3"
+        android:duration="60"></item>
+    <item
+        android:drawable="@drawable/meo4"
+        android:duration="60"></item>
+</animation-list>
